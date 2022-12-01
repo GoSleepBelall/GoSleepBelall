@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syed Bilal Haider @GoSleepBelall
-- 👀 I’m interested in Decentralised apps, Web 3.0 and Artificial Intelligence.
-- 🌱 I’m currently working on MERN (Web), Electron (Desktop), Python (Artificial Intelligence and Machine Learning)
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Computer Vision.
+- 🌱 I’m currently working on MERN (Web), Python (Artificial Intelligence and Machine Learning)
 - 📫 How to reach me 
 - 📧 bilalhyder2001@gmail.com
 - 📞 +92317-7666514
