@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Machine Learning and Computer Vision.
 - 🌱 I’m currently working on MERN (Web), Python (Artificial Intelligence and Machine Learning)
 - 📫 How to reach me 
-- 📧 bilalhyder2001@gmail.com
+- 📧 syedbelalhyder@gmail.com
 - 📞 +92317-7666514
 
 <!---
