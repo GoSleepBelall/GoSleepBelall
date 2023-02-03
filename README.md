@@ -47,7 +47,9 @@ Hi, I’m Syed Bilal Haider. I’m interested in **Data Science, Machine Learnin
 <a href="https://github.com/GoSleepBelall"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://twitter.com/GoSleepBelall"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:syedbelalhyder@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/923177666514?text=Hi there, I saw your Github Profile." rel="nofollow"> <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&amp;logo=WhatsApp&amp;logoColor=ffffff" style="max-width: 100%;"></a>
 </p>
+
 <!---
 GoSleepBelall/GoSleepBelall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
