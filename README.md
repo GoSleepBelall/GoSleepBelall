@@ -1,12 +1,10 @@
 - 👋 Hi, I’m Syed Bilal Haider @GoSleepBelall
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Computer Vision.
-- 🌱 I’m currently working on MERN (Web), Python (Artificial Intelligence and Machine Learning)
-- 📫 How to reach me 
-- 📧 syedbelalhyder@gmail.com
-- 📞 +92317-7666514
+- 👀 I’m interested in Data Science, Machine Learning and Computer Vision.
+- 🌱 I’m currently working on MERN (Web), Python (Machine Learning and Computer Vision), R (DataScience)
+
 
 ### 🛠 &nbsp;Languages
-<p>
+<p align = "center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,7 +18,7 @@
 </p>
 
 ### 🛠 &nbsp;Tools and Technologies
-<p>
+<p align = "center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -47,6 +45,13 @@
 </a>
 </p>
 
+### Contact Me
+<p align = "center">
+<a href="https://www.linkedin.com/in/syedbelall"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/GoSleepBelall"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
+<a href="https://twitter.com/GoSleepBelall"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:syedbelalhyder@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 <!---
 GoSleepBelall/GoSleepBelall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
