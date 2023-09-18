@@ -1,4 +1,4 @@
-Hi, I’m Syed Bilal Haider. I’m interested in **Data Science, Machine Learning and Computer Vision**. I have a great interest in Technologies and IT development. I am passionate and enthusiastic to learn from challenging situations. In a struggle to overcome the thirst for learning and passion for new technologies, languages, processes, styles and patterns. I wanted to be a motivated software engineer by overcoming the unique logical challenges and looking to play an integral role in the growing technical team. 
+Hi, I’m Syed Bilal Haider. I'm a python developer with special interest in **Data Science, Machine Learning and Computer Vision**. I have a great interest in Technologies and IT development. I am passionate and enthusiastic to learn from challenging situations. In a struggle to overcome the thirst for learning and passion for new technologies, languages, processes, styles and patterns. I wanted to be a motivated software engineer by overcoming the unique logical challenges and looking to play an integral role in the growing technical team. 
 
 
 ### 🛠 &nbsp;Languages
