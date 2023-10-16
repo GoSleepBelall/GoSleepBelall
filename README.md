@@ -1,4 +1,4 @@
-Hi, I’m Syed Bilal Haider. I am Computer Science graduate from FAST NUCES. A Full Stack developer with great interest in Technologies and IT development. I am passionate and enthusiastic to learn from challenging situations. In a struggle to overcome the thirst for learning and passion for new technologies, languages, processes, styles and patterns. 
+Hi, I'm a Computer Science graduate from FAST NUCES. A Full Stack developer with great interest in Technologies and IT development. I am passionate and enthusiastic to learn from challenging situations. In a struggle to overcome the thirst for learning and passion for new technologies, languages, processes, styles and patterns. 
 
 
 ### 🛠 &nbsp;Languages
