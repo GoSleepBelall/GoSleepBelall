@@ -41,7 +41,7 @@ Hi, I'm a Full Stack developer with great interest in Technologies and IT develo
 
 ### Contact Me
 <p align = "center">
-<a href=""><img src="https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+<a href="https://storage.googleapis.com/turing_developers/resume/1699817823069_3284512_syedbelalhyder.pdf"><img src="https://img.shields.io/badge/Resume-%230077B5.svg?&style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/syedbelall"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/GoSleepBelall"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://twitter.com/GoSleepBelall"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
